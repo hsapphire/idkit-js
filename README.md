@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/worldcoin/world-id-docs/main/public/images/shared-readme/readme-header.png" alt="" />
 </a>
 
-# IDKit
+# IDKit test dev
 
 IDKit is the toolkit for identity online. With IDKit you can easily interact with the [World ID Protocol](https://worldcoin.org/world-id).
 
